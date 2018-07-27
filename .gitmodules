@@ -1,0 +1,3 @@
+[submodule "SimpleSDLWrapperDotNET"]
+	path = SimpleSDLWrapperDotNET
+	url = https://github.com/notisrac/SimpleSDLWrapperDotNET.git
