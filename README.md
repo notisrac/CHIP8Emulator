@@ -41,3 +41,6 @@ It uses the SimpleSDLWrapperDotNET library to display graphics, and play sound
  * Martijn Wenting - [www.revival-studios.com](www.revival-studios.com)
  * Matthew James Mikolay - [www.mattmik.com](www.mattmik.com)
  * [www.chip8.com](www.chip8.com)
+
+
+[![Analytics](https://ga-beacon.appspot.com/UA-122950438-1/CHIP8Emulator/readme)](https://github.com/igrigorik/ga-beacon)
